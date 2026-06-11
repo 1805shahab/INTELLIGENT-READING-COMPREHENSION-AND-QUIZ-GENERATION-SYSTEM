@@ -1,0 +1,6 @@
+Component,Task,Accuracy,F1_Score,BLEU,ROUGE-1,ROUGE-L
+Model A,Verification (LR),0.7322170375007113,0.45944048721375613,,,
+Model A,Verification (SVM),0.7196409264212144,0.47208411344595824,,,
+Model A,Verification (ENSEMBLE),0.7336112217606555,0.4575528755845438,,,
+Model B,Distractor Generation,,,0.0,0.0781484422010738,0.0781484422010738
+Model A (Unsupervised),K-Means Clustering,Silhouette: 0.0063,,,,
